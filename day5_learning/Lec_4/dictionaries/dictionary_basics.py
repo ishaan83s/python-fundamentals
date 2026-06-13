@@ -41,4 +41,6 @@ dict1 = {
 print(dict1)
 
 #HOW TO ACCESS A KEY INSIDE THE NESTED DICTIONARY
-print(dict1["key3"]["key3_2"])
+print(dict1.get("key3").get("key3_2")) #BETTER OPTION
+
+# print(dict1["key3"]["key3_2"]) #THIS GIVES AN ERROR IF THERE IS NO SUCH KEY so we use .get

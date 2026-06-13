@@ -4,9 +4,9 @@ x = float(input("Enter your first number : "))
 y = float(input("Enter your second number : "))
 z = float(input("Enter your third number : "))
 
-if (x>y and x>z):
+if (x>=y and x>=z):
     print("first is greatest number" , x)
-elif(y>z):
+elif(y>=x and y>=z):
     print("second is greatest number" , y)
 else:
     print("third is greatest number" , z)
