@@ -12,10 +12,16 @@ elif (choice == 2):
 elif(choice == 3):
     print(a*b)
 elif(choice == 4):
-    print(a/b)
+    if b == 0:
+        print("You cannot perform this operation if b = 0")
+    else:
+        print(a/b)
 elif(choice == 5):
     print(a**b)
 elif(choice == 6):
-    print(a%b)
+        if b == 0:
+            print("You cannot perform this operation if b = 0")
+        else:
+            print(a%b)
 else :
     print("unknown choice")
