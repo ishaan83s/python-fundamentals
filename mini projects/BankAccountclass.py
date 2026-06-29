@@ -4,18 +4,20 @@ class BankAccount:
         self.balance = balance
 
     def deposit(self,amount):
-        self.amount = amount
-        self.balance += self.amount
+        self.balance += amount
+        print("Deposited :",amount)
     
     def credit(self,amount):
-        self.amount = amount
-        self.balance -= self.amount
+        if amount > self.balance:
+            print("Oops you cant take that much sorry T-T")
+            print("Your current balance is : ", self.balance)
+        else:
+            self.balance -= amount
     
     def showBalance(self):
         return self.balance
     
-us1 = BankAccount("Nick",100000000)
-us1.credit(1928377)
-us1.credit(100000000)
+us1 = BankAccount("Nick",1000)
+us1.credit(1000)
 us1.deposit(1928377)
 print(us1.showBalance())
