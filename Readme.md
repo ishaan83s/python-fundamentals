@@ -48,7 +48,7 @@ python-learning/
 - **Exception Handling:** try/except, `finally`, raising and defining custom exceptions
 - **Extras:** docstrings, f-strings
 
-## 🚀 Mini Projects
+## 🚀 Mini Projects (More to come)
 
 | Project | Description |
 |---|---|
