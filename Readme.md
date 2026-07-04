@@ -1,4 +1,4 @@
-# Python Fundamentals 🐍
+# Python Fundamentals 🕵🏿‍♂️
 
 A day-by-day journal of learning Python from the ground up to covering core syntax, data structures, control flow, functions, recursion, file handling, and object-oriented programming, along with mini projects and bonus "side quest" topics.
 
