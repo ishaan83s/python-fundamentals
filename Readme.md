@@ -1,4 +1,4 @@
-# Python Fundamentals 🐍
+# Python Fundamentals 🕵🏿‍♂️
 
 A day-by-day journal of learning Python from the ground up to covering core syntax, data structures, control flow, functions, recursion, file handling, and object-oriented programming, along with mini projects and bonus "side quest" topics.
 
@@ -48,7 +48,7 @@ python-learning/
 - **Exception Handling:** try/except, `finally`, raising and defining custom exceptions
 - **Extras:** docstrings, f-strings
 
-## 🚀 Mini Projects
+## 🚀 Mini Projects (More to come)
 
 | Project | Description |
 |---|---|
@@ -66,6 +66,7 @@ Bonus deep-dives into specific Python features:
 - Exception handling (general & specific)
 - `finally` keyword
 - Raising and defining custom exceptions
+- More coming soon...
 
 ## 🛠️ How to Run
 
