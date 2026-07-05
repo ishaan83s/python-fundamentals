@@ -12,4 +12,4 @@ while True:
         print(f"YOU ENTERED VALID NUMBER {x}")
     
     except Exception as e:
-        print(f"Error {e} occured. Please try again\n")
+        print(f"Error: {e} occured. Please try again\n")
