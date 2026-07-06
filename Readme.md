@@ -27,7 +27,7 @@ python-learning/
 ├── day15_learning/       # OOP: polymorphism, dunder functions, class methods, property, super()
 ├── day16_learning/       # Practice problems
 ├── mini projects/        # Standalone projects: calculator, grade checker, bank account, FizzBuzz, number guessing game
-└── side_quests/          # Extra topics: docstrings, f-strings, exception handling, finally keyword, custom exceptions
+└── side_quests/          # Extra topics: docstrings, f-strings, exception handling, finally keyword, custom exceptions , __str__ method
 ```
 
 ## 📚 Topics Covered
@@ -45,8 +45,9 @@ python-learning/
   - Static methods, class methods, private members, `del` keyword
   - Operator overloading and dunder methods
   - `property` and `super()`
+  - __str__ method
 - **Exception Handling:** try/except, `finally`, raising and defining custom exceptions
-- **Extras:** docstrings, f-strings
+- **Extras:** docstrings, f-strings 
 
 ## 🚀 Mini Projects (More to come)
 
@@ -66,6 +67,7 @@ Bonus deep-dives into specific Python features:
 - Exception handling (general & specific)
 - `finally` keyword
 - Raising and defining custom exceptions
+- __str__ method
 - More coming soon...
 
 ## 🛠️ How to Run
