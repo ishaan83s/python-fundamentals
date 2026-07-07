@@ -1,5 +1,5 @@
 import pandas as pd
-df = pd.read_csv('side_quests/csv_file_handling/student_scores.csv')
+df = pd.read_csv('side_quests/csv file handling/student_scores.csv')
 
 #PRINTS ALL THE DATA
 print(df) #PRINTS ALL THE DATA
